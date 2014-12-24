@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>MasterSoft PhoneGap Build</name>
+
+<description>
+Aplicación PhoneGap Build.
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Carlos Gallego
+</author>
+
+<icon src="icon.png" gap:density="idpi" />
+<gap:splash src="splash.png" gap:density="ldpi" />
+<gap:splash src="splash.png" gap:density="mdpi" />
+<gap:splash src="splash.png" gap:density="hdpi" />
+<gap:splash src="splash.png" gap:density="xhdpi" />
+
+<preference name="orientation" value="portrait" />
+
+</widget>

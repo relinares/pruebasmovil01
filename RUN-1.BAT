@@ -1,0 +1,1 @@
+emulator.exe -avd Nexus_5_API_21_x86

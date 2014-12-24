@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    margin:0;
+	padding:0;
+}
+#page, #fumar, #estadistica {
+	 background: url(misimages/wood2.png); 
+/*	 background: url(misimages/space1.png);*/
+	 background-position:center; 
+     background-repeat: repeat;
+     width: 100%; 
+     height: 100%; 
+     position: fixed; 
+     z-index: 0;
+}
+
